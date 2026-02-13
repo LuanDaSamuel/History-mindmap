@@ -1,11 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="Sivu-1" id="g6NGG1rDsuzHhBPpvL0E">
-    <mxGraphModel dx="476" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="582" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OMKxeKN8jF0sIIwDxK_E-3" edge="1" parent="1" source="3xTAG09rwg0HOuQDD-OS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OMKxeKN8jF0sIIwDxK_E-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3xTAG09rwg0HOuQDD-OS-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Antiikin ajan orjuudesta" vertex="1">
           <mxGeometry height="60" width="120" x="420" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="OMKxeKN8jF0sIIwDxK_E-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Isoja osia taloudessa ja kulttuurin kehittymisessä Kreikan ja Rooman antiikin aikana" vertex="1">
+          <mxGeometry height="120" width="320" x="320" y="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
