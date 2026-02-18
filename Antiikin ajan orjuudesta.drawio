@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="Sivu-1" id="g6NGG1rDsuzHhBPpvL0E">
-    <mxGraphModel dx="1636" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2160" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry height="120" width="320" x="320" y="540" as="geometry" />
         </mxCell>
         <mxCell id="OMKxeKN8jF0sIIwDxK_E-10" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Kansalaisilla oli mahdollisuus käyttää aikaansa muuhun kuin työn tekeminen" vertex="1">
-          <mxGeometry height="90" width="180" x="1060" y="820" as="geometry" />
+          <mxGeometry height="90" width="180" x="1110" y="810" as="geometry" />
         </mxCell>
         <mxCell id="OMKxeKN8jF0sIIwDxK_E-14" edge="1" parent="1" source="OMKxeKN8jF0sIIwDxK_E-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OMKxeKN8jF0sIIwDxK_E-10">
           <mxGeometry relative="1" as="geometry" />
