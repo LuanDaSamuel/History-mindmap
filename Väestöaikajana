@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0">
   <diagram name="Sivu-1" id="Oc7Vj4KDbDQvlrfWqSqV">
-    <mxGraphModel dx="1479" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1374" dy="1441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,23 +10,43 @@
             <mxPoint x="1080" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eE8kqNVcqmRYfDwB202I-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="eE8kqNVcqmRYfDwB202I-10" edge="1" parent="1" source="eE8kqNVcqmRYfDwB202I-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eE8kqNVcqmRYfDwB202I-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eE8kqNVcqmRYfDwB202I-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Keräily- ja metsätyskulttuuri" vertex="1">
           <mxGeometry height="60" width="120" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="eE8kqNVcqmRYfDwB202I-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="eE8kqNVcqmRYfDwB202I-13" edge="1" parent="1" source="eE8kqNVcqmRYfDwB202I-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eE8kqNVcqmRYfDwB202I-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Maanviljely" vertex="1">
           <mxGeometry height="60" width="120" x="160" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="eE8kqNVcqmRYfDwB202I-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="eE8kqNVcqmRYfDwB202I-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Antiikki" vertex="1">
           <mxGeometry height="60" width="120" x="320" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="eE8kqNVcqmRYfDwB202I-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="eE8kqNVcqmRYfDwB202I-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Keskiajan alku" vertex="1">
           <mxGeometry height="60" width="120" x="480" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="eE8kqNVcqmRYfDwB202I-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="eE8kqNVcqmRYfDwB202I-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Keskiaika" vertex="1">
           <mxGeometry height="60" width="120" x="640" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="eE8kqNVcqmRYfDwB202I-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="eE8kqNVcqmRYfDwB202I-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Keskiajan loppu" vertex="1">
           <mxGeometry height="60" width="120" x="800" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="eE8kqNVcqmRYfDwB202I-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="- Suuria vaihteluita&lt;div&gt;- Vaikea arvioida&lt;/div&gt;&lt;div&gt;- Heimon kokoa säädeltiin&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="140" x="-10" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="eE8kqNVcqmRYfDwB202I-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Väestön määrä nouse" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="-170" as="geometry" />
+        </mxCell>
+        <mxCell id="eE8kqNVcqmRYfDwB202I-16" edge="1" parent="1" source="eE8kqNVcqmRYfDwB202I-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="eE8kqNVcqmRYfDwB202I-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eE8kqNVcqmRYfDwB202I-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
