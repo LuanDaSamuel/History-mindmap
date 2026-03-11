@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Sivu-1" id="zimz2y8D2oJ_sVzZn-ve">
-    <mxGraphModel dx="1533" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1312" dy="1401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,11 +36,46 @@
         <mxCell id="CEwm4EIQN-3HBbY2BEC5-7" edge="1" parent="1" source="CEwm4EIQN-3HBbY2BEC5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CEwm4EIQN-3HBbY2BEC5-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WC0pSDQbe4BuY5NbrY19-2" edge="1" parent="1" source="CEwm4EIQN-3HBbY2BEC5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CEwm4EIQN-3HBbY2BEC5-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Englannin teollisuus sai tarvitsemansa työvoiman maaseudun työttömien&amp;nbsp;" vertex="1">
           <mxGeometry height="100" width="180" x="-10" y="220" as="geometry" />
         </mxCell>
         <mxCell id="CEwm4EIQN-3HBbY2BEC5-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Väestönkasvu ja laajat merentakaiset siirtokunnat nostivat erilaisten tuotteiden kysyntää" vertex="1">
           <mxGeometry height="100" width="230" x="-350" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="WC0pSDQbe4BuY5NbrY19-6" edge="1" parent="1" source="WC0pSDQbe4BuY5NbrY19-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WC0pSDQbe4BuY5NbrY19-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="-70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WC0pSDQbe4BuY5NbrY19-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Modrenin konein syntyminen (Jouksen mootorit, junapäämootorit ja viljelyn koneet)" vertex="1">
+          <mxGeometry height="100" width="240" x="290" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WC0pSDQbe4BuY5NbrY19-10" edge="1" parent="1" source="WC0pSDQbe4BuY5NbrY19-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WC0pSDQbe4BuY5NbrY19-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kolonialismi ja maailmankaupan voimistunen oli vaurastuttanut porvaristoa" vertex="1">
+          <mxGeometry height="110" width="180" x="-10" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="WC0pSDQbe4BuY5NbrY19-8" edge="1" parent="1" source="WC0pSDQbe4BuY5NbrY19-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="409.9999999999998" y="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WC0pSDQbe4BuY5NbrY19-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Viljeleminen ei tarvitse niin paljon ihmisiä" vertex="1">
+          <mxGeometry height="60" width="240" x="290" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="WC0pSDQbe4BuY5NbrY19-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Osat aloittivat mennä töihin kaupungissa&amp;nbsp;tuotantolaitoksessa" vertex="1">
+          <mxGeometry height="60" width="240" x="290" y="-260" as="geometry" />
+        </mxCell>
+        <mxCell id="WC0pSDQbe4BuY5NbrY19-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="raaka-aineisto ja Englannisa oli riittävästi pääomaa yritystoiminnan rahoittamiseksi" vertex="1">
+          <mxGeometry height="140" width="180" x="-10" y="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
